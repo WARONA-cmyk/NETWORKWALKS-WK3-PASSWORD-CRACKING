@@ -227,8 +227,6 @@ This section records the practical problems encountered during the exercises and
 | Short wordlist did not recover the password | Recognised that the candidate password was not successfully recovered with the available short list. A larger comparison wordlist was used in the assigned training exercise. |
 | Hash formatting | Ensured the extracted hash was saved in the expected format before using it as input. |
 
-Further problems and their exact resolutions should be added here when supported by the screenshots or terminal output.
-
 ---
 
 ## 💡 What I Learned
