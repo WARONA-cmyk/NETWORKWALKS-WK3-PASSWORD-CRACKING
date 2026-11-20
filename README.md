@@ -79,7 +79,7 @@ john --test
 <details>
 <summary>Evidence: John the Ripper tool verification</summary>
 
-Screenshot: `01-john-test.png`
+![John the Ripper benchmark test](01-john-test.png)
 
 </details>
 
@@ -100,7 +100,7 @@ The extracted hash was saved in a text file for use during the exercise.
 <details>
 <summary>Evidence: PDF hash extraction</summary>
 
-Screenshot: `02-hash-extraction.png`
+![Extracted PDF hash](02-hash-extraction.png)
 
 </details>
 
@@ -121,8 +121,9 @@ The recovered result was also checked using John the Ripper's result-display fun
 <details>
 <summary>Evidence: Password recovery and results</summary>
 
-- `03-cracked-password.png`
-- `04-john-show.png`
+![Recovered password](03-cracked-password.png)
+
+![Result display](04-john-show.png)
 
 </details>
 
@@ -135,7 +136,7 @@ The exercise also included using `qpdf` to verify the recovered password and ass
 <details>
 <summary>Evidence: Final verification</summary>
 
-Screenshot: `05-flag-captured.png`
+![Flag captured – Module 1](05-flag-captured.png)
 
 </details>
 
@@ -152,7 +153,7 @@ The resulting hash information was used as input for the password-cracking exerc
 <details>
 <summary>Evidence: Hash calculator</summary>
 
-Screenshot: `01-hash-calculator.png`
+![NetworkWalks Hash Calculator output](01-hash-calculator.png)
 
 </details>
 
@@ -173,8 +174,9 @@ These results demonstrated that the contents of a wordlist can make a significan
 <details>
 <summary>Evidence: Password-cracking process</summary>
 
-- `02-cracker-in-progress.png`
-- `03-cracked-successfully.png`
+![Attack in progress](02-cracker-in-progress.png)
+
+![Password cracked successfully](03-cracked-successfully.png)
 
 </details>
 
@@ -182,10 +184,9 @@ These results demonstrated that the contents of a wordlist can make a significan
 
 The recovered password was checked against the relevant supplied training document to confirm that the result was correct.
 
-<details>
 <summary>Evidence: Verification</summary>
 
-Screenshot: `04-flag-captured.png`
+![Flag captured – Module 2](04-flag-captured.png)
 
 </details>
 
